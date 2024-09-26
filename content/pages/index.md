@@ -78,7 +78,7 @@ sections:
           borderStyle: solid
           borderWidth: 0
           borderRadius: large
-          justifyContent: center
+          justifyContent: flex-start
     badge:
       type: Badge
       label: Contact Us

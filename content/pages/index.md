@@ -43,7 +43,7 @@ sections:
       type: TitleBlock
       text: "\U0001F680 Are you ready to kickstart your career?"
       color: text-dark
-    subtitle: Section with a form subtitl
+    subtitle: ''
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet

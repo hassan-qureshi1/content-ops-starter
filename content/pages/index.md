@@ -702,7 +702,7 @@ sections:
           borderStyle: solid
           borderWidth: 8
           borderRadius: large
-          justifyContent: center
+          justifyContent: flex-start
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl

@@ -318,36 +318,6 @@ sections:
         justifyContent: flex-start
       subtitle:
         textAlign: center
-  - type: FeaturedPeopleSection
-    title:
-      type: TitleBlock
-      text: Diverse Learning Tracks
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    people:
-      - content/data/person1.json
-      - content/data/person2.json
-      - content/data/person3.json
-      - content/data/person4.json
-      - content/data/person5.json
-      - content/data/person6.json
-      - content/data/product-management/business-analytic.json
-      - content/data/artificial-intelligence/machine-learningg.json
-    actions: []
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md

@@ -804,7 +804,9 @@ sections:
       - type: FeaturedItem
         title: Notification & Acceptance
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: >-
+          Following the interview process, successful applicants will receive an
+          official notification of acceptance into the program.
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:

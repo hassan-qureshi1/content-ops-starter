@@ -183,10 +183,9 @@ sections:
       - type: FeaturedItem
         title: Career Placement Support
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Access a dedicated career placement team offering resume reviews,
+          interview preparation, and job placement assistance.
         image:
           type: ImageBlock
           url: /images/icon1.svg

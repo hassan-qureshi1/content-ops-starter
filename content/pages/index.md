@@ -541,7 +541,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: 50% Early Bird Discount
+        title: Early Bird Discount
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem

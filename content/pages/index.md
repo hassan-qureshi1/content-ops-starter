@@ -260,7 +260,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: learning Tracks
       color: text-dark
       styles:
         self:

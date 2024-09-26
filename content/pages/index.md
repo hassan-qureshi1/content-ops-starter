@@ -291,7 +291,9 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: "\U0001F680 Are you ready to kickstart your career?"
+      text: >-
+        Don't wait—secure your spot in the next cohort and start your journey
+        today!
       color: text-dark
       styles:
         self:

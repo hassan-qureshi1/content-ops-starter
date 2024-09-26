@@ -610,7 +610,9 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: "\U0001F680 Are you ready to kickstart your career?"
+      text: >-
+        Don’t miss out on these opportunities. Take advantage of our
+        scholarships and discounts now!
       color: text-dark
       styles:
         self:

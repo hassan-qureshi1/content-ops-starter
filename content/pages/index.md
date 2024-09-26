@@ -46,7 +46,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Explore key incentives(right suitable subtitle here)
     items:
       - type: FeaturedItem
         title: 500k

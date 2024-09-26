@@ -652,7 +652,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Eligibility Criteria
       color: text-primary
       styles:
         self:

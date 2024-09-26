@@ -67,13 +67,9 @@ sections:
         title: Flexible Learning
         tagline: ''
         subtitle: ''
-        text: >+
+        text: >
           Benefit from a hybrid learning model that allows you to balance your
           studies with work or other commitments.
-
-
-          ###
-
         image:
           type: ImageBlock
           altText: Jane Doe

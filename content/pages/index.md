@@ -454,7 +454,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
     actions: []
-    variant: toggle-list
+    variant: big-list
     colors: bg-neutral-fg-dark
     styles:
       self:

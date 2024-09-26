@@ -129,10 +129,9 @@ sections:
       - type: FeaturedItem
         title: Entrepreneurial Support
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Explore your entrepreneurial aspirations with access to resources and
+          a network of like-minded individuals.
         image:
           type: ImageBlock
           url: /images/icon1.svg

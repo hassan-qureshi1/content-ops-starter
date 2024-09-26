@@ -700,7 +700,7 @@ sections:
             - pr-6
           borderColor: border-dark
           borderStyle: solid
-          borderWidth: 8
+          borderWidth: 0
           borderRadius: small
           justifyContent: flex-start
       type: FormBlock

@@ -435,8 +435,7 @@ sections:
         subtitle: >-
           Immerse yourself in different cultures to broaden your perspective and
           foster intercultural understanding.
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: ''
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg

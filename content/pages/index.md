@@ -79,6 +79,8 @@ sections:
           borderWidth: 0
           borderRadius: large
           justifyContent: flex-start
+          margin:
+            - mr-24
     badge:
       type: Badge
       label: Contact Us

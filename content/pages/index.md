@@ -666,13 +666,6 @@ sections:
         text: >
           Maintain a strong academic record, demonstrating a commitment to
           learning. Minimum GPA requirements may apply.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Background alt text
-          styles:
-            self:
-              borderRadius: x-large
         actions: []
         colors: bg-light-fg-dark
         styles:

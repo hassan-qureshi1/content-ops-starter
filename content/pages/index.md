@@ -44,11 +44,10 @@ sections:
       text: "\U0001F680 Are you ready to kickstart your career?"
       color: text-dark
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |
+      GradAccelerate Program (GAP) will equip you with the skills,
+      experience, and industry connections you need to launch a
+      successful career. Let’s make your future in tech happen, together.
     actions: []
     media:
       type: FormBlock

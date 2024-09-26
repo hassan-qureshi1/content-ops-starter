@@ -334,6 +334,7 @@ sections:
       - content/data/person5.json
       - content/data/person6.json
       - content/data/product-management/business-analytic.json
+      - content/data/artificial-intelligence/machine-learningg.json
     actions: []
     variant: three-col-grid
     colors: bg-light-fg-dark

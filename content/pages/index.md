@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: "\U0001F680 Are you ready to kickstart your career?"
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here

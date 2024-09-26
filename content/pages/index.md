@@ -723,7 +723,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: How is life in GradAccelerate?
       color: text-primary
       styles:
         self:

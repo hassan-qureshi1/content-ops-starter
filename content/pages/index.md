@@ -753,7 +753,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Review & Evaluation
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.

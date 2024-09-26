@@ -624,7 +624,7 @@ sections:
     actions:
       - type: Button
         label: Secure Your Spot
-        altText: ''
+        altText: Secure Your Spot
         url: /
         showIcon: false
         icon: arrowRight

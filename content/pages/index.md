@@ -842,7 +842,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: "\U0001F680 Are you ready to kickstart your career?"
+      text: Ready to Take the Leap?
       color: text-dark
       styles:
         self:

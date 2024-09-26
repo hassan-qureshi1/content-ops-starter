@@ -754,7 +754,9 @@ sections:
       - type: FeaturedItem
         title: Review & Evaluation
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: >-
+          Our expert team will thoroughly review your application based on your
+          academic background, skills, and experience.
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:

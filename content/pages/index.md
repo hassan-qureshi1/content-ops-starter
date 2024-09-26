@@ -375,7 +375,7 @@ sections:
     title:
       type: TitleBlock
       text: Improved Student Experience
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center

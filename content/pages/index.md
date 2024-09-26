@@ -90,7 +90,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Feature Item One
+        title: Global Exposure
         tagline: ''
         subtitle: ''
         text: |

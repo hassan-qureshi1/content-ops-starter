@@ -61,7 +61,7 @@ sections:
       text:
         textAlign: center
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: Key Incentives
     items:
       - type: FeaturedItem
         title: >-

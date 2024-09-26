@@ -24,7 +24,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
-    elementId: qqq
+    elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:

@@ -2,42 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
-    title:
-      text: "\U0001F680 Are you ready to kickstart your career?"
-      color: text-dark
-      type: TitleBlock
-      styles:
-        self:
-          textAlign: center
-    subtitle: ''
-    text: >+
-      <div style="text-align: center">GradAccelerate Program (GAP) will equip
-      you with the skills,
-
-      experience, and industry connections you need to launch a
-
-      successful career. Let’s make your future in tech happen, together.</div>
-
-    actions: []
-    media:
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      text:
-        textAlign: center
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
@@ -154,6 +118,42 @@ sections:
           - pr-16
         justifyContent: center
       subtitle:
+        textAlign: center
+  - type: GenericSection
+    title:
+      text: "\U0001F680 Are you ready to kickstart your career?"
+      color: text-dark
+      type: TitleBlock
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    text: >+
+      <div style="text-align: center">GradAccelerate Program (GAP) will equip
+      you with the skills,
+
+      experience, and industry connections you need to launch a
+
+      successful career. Let’s make your future in tech happen, together.</div>
+
+    actions: []
+    media:
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      type: ImageBlock
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      text:
         textAlign: center
   - subtitle: Award winning enterprises trust us
     images:

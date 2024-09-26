@@ -853,7 +853,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
+        label: Apply Now
         altText: ''
         url: /
         showIcon: false

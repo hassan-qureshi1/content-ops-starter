@@ -7,7 +7,7 @@ sections:
       text: "\U0001F680 Are you ready to kickstart your career?"
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >+
       <div style="text-align: center">GradAccelerate Program (GAP) will equip
       you with the skills, experience, and industry connections you need to

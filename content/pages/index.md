@@ -688,8 +688,9 @@ sections:
         title: Course Completion
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          Complete specific prerequisite courses relevant to the program's focus
+          area. Ensure a strong foundation in essential knowledge.
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg

@@ -623,7 +623,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
+        label: Secure your spot
         altText: ''
         url: /
         showIcon: false

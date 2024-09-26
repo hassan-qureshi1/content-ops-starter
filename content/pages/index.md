@@ -78,13 +78,9 @@ sections:
               borderRadius: x-large
       - title: Global Exposure
         subtitle: ''
-        text: >+
+        text: >
           Engage in virtual global collaborations and gain insights into
           international tech trends and best practices.
-
-
-          ###
-
         image:
           url: /images/icon2.svg
           altText: Featured icon two

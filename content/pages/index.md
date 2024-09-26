@@ -432,7 +432,9 @@ sections:
       - type: FeaturedItem
         title: Cultural Enrichment
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: >-
+          Immerse yourself in different cultures to broaden your perspective and
+          foster intercultural understanding.
         text: |
           Learn from the tutorial and build your first awesome Netlify site.
         image:

@@ -78,6 +78,7 @@ sections:
           borderStyle: solid
           borderWidth: 8
           borderRadius: large
+          justifyContent: center
     badge:
       type: Badge
       label: Contact Us

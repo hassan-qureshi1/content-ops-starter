@@ -854,7 +854,7 @@ sections:
     actions:
       - type: Button
         label: Apply Now
-        altText: ''
+        altText: Apply Now
         url: /
         showIcon: false
         icon: arrowRight

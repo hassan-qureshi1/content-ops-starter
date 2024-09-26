@@ -99,6 +99,7 @@ sections:
     styles:
       self:
         flexDirection: row
+        alignItems: center
   - type: FeaturedItemsSection
     title:
       text: Key Incentives

@@ -1,7 +1,7 @@
 ---
 title: Full-Stack Development
 slug: life-of-our-development-team
-date: '2023-03-27'
+date: ''
 excerpt: >-
   Master full-stack engineering by designing, building, and deploying scalable
   web applications with front-end and back-end technologies.

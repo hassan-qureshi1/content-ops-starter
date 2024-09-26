@@ -288,6 +288,36 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
+  - type: FeaturedPeopleSection
+    title:
+      type: TitleBlock
+      text: Diverse Learning Tracks
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    people:
+      - content/data/person1.json
+      - content/data/person2.json
+      - content/data/person3.json
+      - content/data/person4.json
+      - content/data/person5.json
+      - content/data/person6.json
+      - content/data/product-management/business-analytics.json
+      - content/data/artificial-intelligence/machine-learning.json
+    actions: []
+    variant: four-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: flex-start
+      subtitle:
+        textAlign: center
   - type: GenericSection
     title:
       type: TitleBlock
@@ -320,36 +350,6 @@ sections:
           - pr-16
         justifyContent: center
       text:
-        textAlign: center
-  - type: FeaturedPeopleSection
-    title:
-      type: TitleBlock
-      text: Diverse Learning Tracks
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-    people:
-      - content/data/person1.json
-      - content/data/person2.json
-      - content/data/person3.json
-      - content/data/person4.json
-      - content/data/person5.json
-      - content/data/person6.json
-      - content/data/product-management/business-analytics.json
-      - content/data/artificial-intelligence/machine-learning.json
-    actions: []
-    variant: four-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: flex-start
-      subtitle:
         textAlign: center
   - posts:
       - content/pages/blog/case-study-1.md

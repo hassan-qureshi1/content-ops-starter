@@ -660,7 +660,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Academic Standing
         tagline: ''
         subtitle: This is the item subtitle
         text: |

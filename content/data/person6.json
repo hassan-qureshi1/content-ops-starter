@@ -1,7 +1,7 @@
 {
     "type": "Person",
-    "name": "Harrison Tally",
-    "role": "Co-founder & CEO",
+    "name": "Digital Marketing",
+    "role": "",
     "image": {
         "url": "/images/avatar6.svg",
         "altText": "Harrison Tally",
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "Drive business growth through online marketing, social media optimization, and data-driven content creation, measuring the impact of your campaigns.\n"
 }

@@ -4,57 +4,78 @@ slug: /
 sections:
   - type: GenericSection
     title:
+      type: TitleBlock
       text: "\U0001F680 Are you ready to kickstart your career?"
       color: text-dark
-      type: TitleBlock
       styles:
         self:
           textAlign: center
     subtitle: ''
-    text: >+
-      <div style="text-align: center">GradAccelerate Program (GAP) will equip
-      you with the skills,
-
+    text: |
+      GradAccelerate Program (GAP) will equip you with the skills,
       experience, and industry connections you need to launch a
-
-      successful career. Let’s make your future in tech happen, together.</div>
-
+      successful career. Let’s make your future in tech happen, together.
     actions: []
     media:
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    elementId: ''
+      type: FormBlock
+      fields:
+        - type: EmailFormControl
+          name: email
+          label: Email
+          hideLabel: true
+          placeholder: Your email
+          isRequired: true
+          width: full
+      submitButton:
+        type: SubmitButtonFormControl
+        label: Submit
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+      elementId: form-data
+      styles:
+        self:
+          padding:
+            - pt-6
+            - pb-6
+            - pl-32
+            - pr-32
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 0
+          borderRadius: large
+          justifyContent: center
+          margin:
+            - mr-24
+            - ml-24
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
-        alignItems: center
         flexDirection: col
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
+        alignItems: center
         justifyContent: center
       text:
         textAlign: center
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Key Incentives
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Explore key incentives(right suitable subtitle here)
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Flexible Learning
+        subtitle: ''
+        text: >
+          Benefit from a hybrid learning model that allows you to balance your
+          studies with work or other commitments.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -77,12 +98,11 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Global Exposure
+        subtitle: ''
+        text: >
+          Engage in virtual global collaborations and gain insights into
+          international tech trends and best practices.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -102,12 +122,11 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Networking Opportunities
+        subtitle: ''
+        text: >
+          Connect with industry professionals, potential employers, and fellow
+          GAP participants.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -125,18 +144,90 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+      - type: FeaturedItem
+        title: Entrepreneurial Support
+        subtitle: ''
+        text: >
+          Explore your entrepreneurial aspirations with access to resources and
+          a network of like-minded individuals.
+        image:
+          type: ImageBlock
+          url: /images/icon1.svg
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: Industry-Recognized Certification
+        subtitle: ''
+        text: >
+          Earn a valuable certificate upon program completion, validating your
+          acquired skills.
+        image:
+          type: ImageBlock
+          url: /images/icon1.svg
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: Career Placement Support
+        subtitle: ''
+        text: >
+          Access a dedicated career placement team offering resume reviews,
+          interview preparation, and job placement assistance.
+        image:
+          type: ImageBlock
+          url: /images/icon1.svg
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+    actions: []
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       styles:
         self:
@@ -155,6 +246,17 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg
@@ -186,14 +288,25 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
+  - type: FeaturedPeopleSection
+    title:
+      type: TitleBlock
+      text: Diverse Learning Tracks
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    people:
+      - content/data/person1.json
+      - content/data/person2.json
+      - content/data/person3.json
+      - content/data/person4.json
+      - content/data/person5.json
+      - content/data/person6.json
+      - content/data/product-management/business-analytics.json
+      - content/data/artificial-intelligence/machine-learning.json
+    actions: []
+    variant: four-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
@@ -202,19 +315,605 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+        justifyContent: flex-start
+      subtitle:
+        textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: >-
+        Don't wait—secure your spot in the next cohort and start your journey
+        today!
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    text: |+
+      <div style="text-align: center"></div>
+
+    actions:
+      - type: Button
+        label: Register Today
+        altText: Register Today!
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    media:
+      type: ImageBlock
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: col
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
         justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
-  - title: Divider
+      text:
+        textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
         padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Improved Student Experience
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: Personal GrowthPersonal Growth
+        tagline: ''
+        subtitle: >-
+          Challenge yourself to step outside your comfort zone and develop
+          valuable life skills.
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Background alt text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: Enhanced Employability
+        tagline: ''
+        subtitle: Acquire valuable skills and experiences that employers actively seek.
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature2.svg
+          altText: Background alt text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: Cultural Enrichment
+        tagline: ''
+        subtitle: >-
+          Immerse yourself in different cultures to broaden your perspective and
+          foster intercultural understanding.
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature3.svg
+          altText: Background alt text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: Career Exploration
+        tagline: ''
+        subtitle: >-
+          Gain practical experience and explore potential career paths to make
+          informed choices.Gain practical experience and explore potential
+          career paths to make informed choices.
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    actions: []
+    variant: small-list
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-8
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Elevate Your Education
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: Fully Funded Scholarships
+        subtitle: ''
+        text: >
+          Discover the path to your dreams with our fully funded scholarships.
+          We believe in empowering students to succeed.
+        image:
+          type: ImageBlock
+          url: /images/icon1.svg
+          altText: Lightning bolt symbol on red background
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: Early Bird Discount
+        subtitle: ''
+        text: >
+          Secure your spot and benefit from a 50% discount on program fees when
+          you register early. Don't miss out on this opportunity!
+        image:
+          type: ImageBlock
+          url: /images/icon2.svg
+          altText: Featured icon two
+          elementId: ''
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+      - type: FeaturedItem
+        title: Program Fee
+        subtitle: ''
+        text: >
+          Our program fee is 180,000 PKR, offering a comprehensive and valuable
+          learning experience.
+        image:
+          type: ImageBlock
+          url: /images/icon3.svg
+          altText: Featured icon three
+          elementId: ''
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    actions: []
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-16
+          - pt-16
+          - pl-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: >-
+        Don’t miss out on these opportunities. Take advantage of our
+        scholarships and discounts now!
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    text: |+
+      <div style="text-align: center"></div>
+
+    actions:
+      - type: Button
+        label: Secure Your Spot
+        altText: Secure Your Spot
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    media:
+      type: ImageBlock
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: col
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      text:
+        textAlign: center
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Eligibility Criteria
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: Academic Standing
+        tagline: ''
+        subtitle: ''
+        text: >
+          Maintain a strong academic record, demonstrating a commitment to
+          learning. Minimum GPA requirements may apply.
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: Course Completion
+        tagline: ''
+        subtitle: ''
+        text: >
+          Complete specific prerequisite courses relevant to the program's focus
+          area. Ensure a strong foundation in essential knowledge.
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: Interest & Motivation
+        tagline: ''
+        subtitle: ''
+        text: >
+          Exhibit a genuine interest and passion for the program's field,
+          displaying a proactive mindset and eagerness to learn.
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    actions: []
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-8
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Simplified Application Process
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: Submit Application
+        tagline: ''
+        subtitle: >-
+          Submit your application form online. Be sure to include all the
+          required documents and information.
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Background alt text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: Review & Evaluation
+        tagline: ''
+        subtitle: >-
+          Our expert team will thoroughly review your application based on your
+          academic background, skills, and experience.
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature2.svg
+          altText: Background alt text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: Interview
+        tagline: ''
+        subtitle: >-
+          Selected candidates will be invited for an interview to assess their
+          suitability for the program and discuss their aspirations.
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature3.svg
+          altText: Background alt text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: Notification & Acceptance
+        tagline: ''
+        subtitle: >-
+          Following the interview process, successful applicants will receive an
+          official notification of acceptance into the program.
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    actions: []
+    variant: two-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-8
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Ready to Take the Leap?
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    text: |+
+      <div style="text-align: center"></div>
+
+    actions:
+      - type: Button
+        label: Apply Now
+        altText: Apply Now
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    media:
+      type: ImageBlock
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: col
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      text:
+        textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Social Media Management
+      color: text-dark
+    subtitle: Increase your reach
+    text: >
+      A service that helps businesses to manage their social media accounts and
+      posts.
+    actions:
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Link
+        label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      url: /images/hero2.svg
+      altText: Fun feature preview
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
   - title:
       text: Grow your business 10x faster
       color: text-dark
@@ -580,7 +1279,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: How is life in GradAccelerate?
       color: text-primary
       styles:
         self:
@@ -671,53 +1370,101 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-  - title:
-      text: Generic Section With A Form
-      color: text-dark
+  - type: FeaturedItemsSection
+    title:
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    media:
-      fields:
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-      elementId: contact-form
+      text: List of features here
+      color: text-primary
       styles:
         self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 0
-          borderRadius: small
-          justifyContent: flex-start
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: null
-    badge:
-      label: Contact Us
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    type: GenericSection
+          textAlign: center
+    subtitle: Featured items section subtitle
+    items:
+      - type: FeaturedItem
+        title: Feature Item One
+        tagline: This is the tagline
+        subtitle: This is the item subtitle
+        text: |
+          Follow the tutorial to build your first Netlify Create site.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Background alt text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: Feature Item Two
+        tagline: This is the tagline
+        subtitle: This is the item subtitle
+        text: |
+          Follow the tutorial to build your first awesome Netlify Create site.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature2.svg
+          altText: Background alt text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: Feature Item Three
+        tagline: This is the tagline
+        subtitle: This is the item subtitle
+        text: |
+          Learn from the tutorial and build your first awesome Netlify site.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature3.svg
+          altText: Background alt text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    actions: []
+    variant: two-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-8
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.

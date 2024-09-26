@@ -1,7 +1,7 @@
 {
     "type": "Person",
-    "name": "Drake Garza",
-    "role": "Job title",
+    "name": "Software Quality Assurance",
+    "role": "",
     "image": {
         "url": "/images/avatar5.svg",
         "altText": "Drake Garza",
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "Become proficient in testing methodologies and tools to ensure software quality and reliability with automated processes and defect resolution.\n"
 }

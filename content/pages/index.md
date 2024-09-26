@@ -716,13 +716,6 @@ sections:
         text: >
           Exhibit a genuine interest and passion for the program's field,
           displaying a proactive mindset and eagerness to learn.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature3.svg
-          altText: Background alt text
-          styles:
-            self:
-              borderRadius: x-large
         actions: []
         colors: bg-light-fg-dark
         styles:

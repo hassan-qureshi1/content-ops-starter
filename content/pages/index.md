@@ -174,7 +174,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: Entrepreneurial Support
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           Explore your entrepreneurial aspirations with access to resources and
           a network of like-minded individuals.

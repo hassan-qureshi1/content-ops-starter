@@ -29,7 +29,7 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: row
+        flexDirection: col
         padding:
           - pt-16
           - pl-16
@@ -683,13 +683,6 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
       fields:
-        - name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-          type: TextFormControl
         - name: email
           label: Email
           hideLabel: true
@@ -697,12 +690,6 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-          type: TextareaFormControl
       elementId: contact-form
       styles:
         self:
@@ -713,8 +700,9 @@ sections:
             - pr-6
           borderColor: border-dark
           borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
+          borderWidth: 0
+          borderRadius: small
+          justifyContent: flex-start
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl

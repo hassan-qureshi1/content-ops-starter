@@ -11,16 +11,13 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    text: |+
-      <div style="text-align: center">
+    text: >+
+      <div style="text-align: center">GradAccelerate Program (GAP) will equip
+      you with the skills,
 
-      <p>GradAccelerate Program (GAP) will equip you with the skills,</p> 
-      <p>experience, and industry connections you need to launch a</p>
-       <p>successful career. Let’s make your future in tech happen, together.</p>
+      experience, and industry connections you need to launch a
 
-
-
-      </div>
+      successful career. Let’s make your future in tech happen, together.</div>
 
     actions:
       - label: Get started

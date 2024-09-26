@@ -30,7 +30,7 @@
             "borderStyle": "solid",
             "borderWidth": 0,
             "borderRadius": "none",
-            "justifyContent": "flex-start"
+            "justifyContent": "center"
         }
     }
 }

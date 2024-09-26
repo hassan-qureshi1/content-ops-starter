@@ -409,7 +409,7 @@ sections:
       - type: FeaturedItem
         title: Enhanced Employability
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Acquire valuable skills and experiences that employers actively seek.
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:

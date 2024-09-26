@@ -73,7 +73,7 @@ sections:
             - pt-6
             - pb-6
             - pl-6
-            - pr-6
+            - pr-32
           borderColor: border-dark
           borderStyle: solid
           borderWidth: 0

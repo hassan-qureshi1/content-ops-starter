@@ -757,8 +757,7 @@ sections:
         subtitle: >-
           Our expert team will thoroughly review your application based on your
           academic background, skills, and experience.
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: ''
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg

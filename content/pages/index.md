@@ -19,13 +19,6 @@ sections:
     media:
       type: FormBlock
       fields:
-        - type: TextareaFormControl
-          name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          isRequired: false
-          width: full
         - type: EmailFormControl
           name: email
           label: Email

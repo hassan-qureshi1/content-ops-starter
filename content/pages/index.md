@@ -49,7 +49,7 @@ sections:
     subtitle: Explore key incentives(right suitable subtitle here)
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Flexible Learning
         subtitle: Flexible LearningNumbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem

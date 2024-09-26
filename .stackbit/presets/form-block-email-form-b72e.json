@@ -1,0 +1,56 @@
+{
+    "model": "FormBlock",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "email form",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "email form"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "fields": [
+                    {
+                        "$$type": "EmailFormControl",
+                        "name": "email",
+                        "label": "Email",
+                        "hideLabel": true,
+                        "placeholder": "Your email",
+                        "isRequired": true,
+                        "width": "full"
+                    }
+                ],
+                "submitButton": {
+                    "$$type": "SubmitButtonFormControl",
+                    "label": "Submit",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "primary",
+                    "elementId": null
+                },
+                "elementId": "contact-form",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-6",
+                            "pb-6",
+                            "pl-6",
+                            "pr-6"
+                        ],
+                        "borderColor": "border-dark",
+                        "borderStyle": "solid",
+                        "borderWidth": 0,
+                        "borderRadius": "small",
+                        "justifyContent": "flex-start"
+                    }
+                }
+            },
+            "thumbnail": "images/form-block-email-form-b72e.png"
+        }
+    ]
+}

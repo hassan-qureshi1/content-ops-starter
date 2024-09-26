@@ -49,7 +49,7 @@ sections:
           - pr-16
         justifyContent: center
       text:
-        textAlign: center
+        textAlign: left
   - type: FeaturedItemsSection
     title:
       text: Key Benefits

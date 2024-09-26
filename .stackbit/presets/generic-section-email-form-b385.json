@@ -1,0 +1,60 @@
+{
+    "model": "GenericSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "email form",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "email form"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "$$type": "TitleBlock",
+                    "text": "🚀 Are you ready to kickstart your career?",
+                    "color": "text-dark",
+                    "styles": {
+                        "self": {
+                            "textAlign": "center"
+                        }
+                    }
+                },
+                "subtitle": "",
+                "text": "<div style=\"text-align: center\">GradAccelerate Program (GAP) will equip you with the skills,\nexperience, and industry connections you need to launch a\nsuccessful career. Let’s make your future in tech happen, together.</div>\n\n",
+                "actions": [],
+                "media": {
+                    "$$type": "ImageBlock",
+                    "url": null,
+                    "altText": "Unblock your team boost your time to production preview",
+                    "elementId": "",
+                    "styles": null
+                },
+                "badge": null,
+                "elementId": "",
+                "colors": "bg-light-fg-dark",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "alignItems": "center",
+                        "flexDirection": "col",
+                        "padding": [
+                            "pt-16",
+                            "pl-16",
+                            "pb-16",
+                            "pr-16"
+                        ],
+                        "justifyContent": "center"
+                    },
+                    "text": {
+                        "textAlign": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/generic-section-email-form-b385.png"
+        }
+    ]
+}

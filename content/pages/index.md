@@ -304,6 +304,7 @@ sections:
       - content/data/person5.json
       - content/data/person6.json
       - content/data/product-management/business-analytics.json
+      - content/data/artificial-intelligence/machine-learning.json
     actions: []
     variant: mixed-grid
     colors: bg-light-fg-dark

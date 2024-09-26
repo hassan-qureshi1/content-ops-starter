@@ -782,8 +782,7 @@ sections:
         subtitle: >-
           Selected candidates will be invited for an interview to assess their
           suitability for the program and discuss their aspirations.
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: ''
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg

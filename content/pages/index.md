@@ -15,7 +15,15 @@ sections:
       GradAccelerate Program (GAP) will equip you with the skills,
       experience, and industry connections you need to launch a
       successful career. Let’s make your future in tech happen, together.
-    actions: []
+    actions:
+      - type: Link
+        altText: GitHub
+        url: /
+        showIcon: true
+        icon: github
+        iconPosition: left
+        style: secondary
+        elementId: ''
     media:
       type: FormBlock
       fields:

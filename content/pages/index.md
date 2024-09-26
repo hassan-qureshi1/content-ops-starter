@@ -67,10 +67,13 @@ sections:
         title: Flexible Learning
         tagline: ''
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Benefit from a hybrid learning model that allows you to balance your
+          studies with work or other commitments.
+
+
+          ###
+
         image:
           type: ImageBlock
           altText: Jane Doe

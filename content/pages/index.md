@@ -64,9 +64,7 @@ sections:
     subtitle: Key Incentives
     items:
       - type: FeaturedItem
-        title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify.”
+        title: Flexible Learning
         tagline: ''
         subtitle: 'Jane Doe, Company'
         text: >-

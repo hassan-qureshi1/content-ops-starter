@@ -729,7 +729,9 @@ sections:
       - type: FeaturedItem
         title: Submit Application
         tagline: ''
-        subtitle: ''
+        subtitle: >-
+          Submit your application form online. Be sure to include all the
+          required documents and information.
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:

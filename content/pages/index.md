@@ -38,6 +38,42 @@ sections:
         justifyContent: center
       text:
         textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: "\U0001F680 Are you ready to kickstart your career?"
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    text: >+
+      <div style="text-align: center">GradAccelerate Program (GAP) will equip
+      you with the skills,
+
+      experience, and industry connections you need to launch a
+
+      successful career. Let’s make your future in tech happen, together.</div>
+
+    actions: []
+    media:
+      type: ImageBlock
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: col
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      text:
+        textAlign: center
   - type: FeaturedItemsSection
     title:
       text: Key Incentives

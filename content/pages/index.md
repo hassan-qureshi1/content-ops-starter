@@ -732,8 +732,7 @@ sections:
         subtitle: >-
           Submit your application form online. Be sure to include all the
           required documents and information.
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg

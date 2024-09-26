@@ -40,7 +40,7 @@ sections:
         textAlign: center
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Key Incentives
       color: text-dark
       styles:
         self:

@@ -3,9 +3,8 @@ title: Full-Stack Development
 slug: life-of-our-development-team
 date: '2023-03-27'
 excerpt: >-
-  Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
-  earum corporis id Quis esse est galisum officiis accusantium enim et
-  asperiores dolore.
+  Master full-stack engineering by designing, building, and deploying scalable
+  web applications with front-end and back-end technologies.
 featuredImage:
   url: /images/abstract-feature3.svg
   altText: Thumbnail

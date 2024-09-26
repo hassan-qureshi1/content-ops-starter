@@ -543,10 +543,9 @@ sections:
       - type: FeaturedItem
         title: Early Bird Discount
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Secure your spot and benefit from a 50% discount on program fees when
+          you register early. Don't miss out on this opportunity!
         image:
           type: ImageBlock
           url: /images/icon2.svg

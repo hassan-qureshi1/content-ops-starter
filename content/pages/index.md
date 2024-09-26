@@ -454,7 +454,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
     actions: []
-    variant: toggle-list
+    variant: two-col-grid
     colors: bg-neutral-fg-dark
     styles:
       self:

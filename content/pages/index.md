@@ -78,7 +78,7 @@ sections:
           borderStyle: solid
           borderWidth: 0
           borderRadius: large
-          justifyContent: flex-start
+          justifyContent: center
           margin:
             - mr-24
             - ml-24

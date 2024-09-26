@@ -19,16 +19,7 @@ sections:
 
       successful career. Let’s make your future in tech happen, together.</div>
 
-    actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     media:
       altText: Unblock your team boost your time to production preview
       elementId: ''

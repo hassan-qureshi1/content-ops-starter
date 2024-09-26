@@ -663,8 +663,9 @@ sections:
         title: Academic Standing
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Maintain a strong academic record, demonstrating a commitment to
+          learning. Minimum GPA requirements may apply.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg

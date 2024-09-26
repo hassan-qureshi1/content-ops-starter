@@ -699,7 +699,7 @@ sections:
             - pl-6
             - pr-6
           borderColor: border-dark
-          borderStyle: solid
+          borderStyle: double
           borderWidth: 8
           borderRadius: small
           justifyContent: flex-start

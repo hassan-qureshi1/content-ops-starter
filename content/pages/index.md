@@ -51,10 +51,9 @@ sections:
       - type: FeaturedItem
         title: Flexible Learning
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Benefit from a hybrid learning model that allows you to balance your
+          studies with work or other commitments.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark

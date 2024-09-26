@@ -701,7 +701,7 @@ sections:
           borderColor: border-dark
           borderStyle: solid
           borderWidth: 8
-          borderRadius: large
+          borderRadius: small
           justifyContent: flex-start
       type: FormBlock
       submitButton:

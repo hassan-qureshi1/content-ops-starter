@@ -335,7 +335,7 @@ sections:
     actions:
       - type: Button
         label: ''
-        altText: ''
+        altText: Register Today!
         url: /
         showIcon: false
         icon: arrowRight

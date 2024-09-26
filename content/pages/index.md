@@ -85,7 +85,7 @@ sections:
     colors: bg-light-fg-dark
     styles:
       self:
-        flexDirection: row
+        flexDirection: col
         alignItems: center
         justifyContent: center
   - type: FeaturedItemsSection

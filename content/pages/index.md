@@ -408,7 +408,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Enhanced Employability
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.

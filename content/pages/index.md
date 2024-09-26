@@ -720,7 +720,7 @@ sections:
     title:
       type: TitleBlock
       text: Simplified Application Process
-      color: text-primary
+      color: text-dark
       styles:
         self:
           textAlign: center

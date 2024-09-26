@@ -93,8 +93,10 @@ sections:
         title: Global Exposure
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          Engage in virtual global collaborations and gain insights into
+          international tech trends and best practices.
+
         image:
           type: ImageBlock
           altText: Placeholder text

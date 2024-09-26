@@ -292,7 +292,7 @@ sections:
     title:
       type: TitleBlock
       text: Diverse Learning Tracks
-      color: text-primary
+      color: text-neutral
       styles:
         self:
           textAlign: center

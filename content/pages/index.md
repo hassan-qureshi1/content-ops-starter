@@ -41,7 +41,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic Section With A Form
+      text: "\U0001F680 Are you ready to kickstart your career?"
       color: text-dark
     subtitle: Section with a form subtitle
     text: |-

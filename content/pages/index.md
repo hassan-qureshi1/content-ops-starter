@@ -306,7 +306,7 @@ sections:
       - content/data/product-management/business-analytics.json
       - content/data/artificial-intelligence/machine-learning.json
     actions: []
-    variant: mixed-grid
+    variant: four-col-grid
     colors: bg-light-fg-dark
     styles:
       self:

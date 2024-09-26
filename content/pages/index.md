@@ -691,13 +691,6 @@ sections:
         text: >
           Complete specific prerequisite courses relevant to the program's focus
           area. Ensure a strong foundation in essential knowledge.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature2.svg
-          altText: Background alt text
-          styles:
-            self:
-              borderRadius: x-large
         actions: []
         colors: bg-light-fg-dark
         styles:

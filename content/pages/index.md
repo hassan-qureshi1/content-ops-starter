@@ -94,6 +94,8 @@ sections:
         flexDirection: col
         alignItems: center
         justifyContent: center
+      text:
+        textAlign: center
   - type: FeaturedItemsSection
     title:
       text: Key Incentives

@@ -506,7 +506,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: Elevate Your Education
       color: text-dark
       styles:
         self:

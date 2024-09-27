@@ -1373,7 +1373,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: Brands That Trust Devkind
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg

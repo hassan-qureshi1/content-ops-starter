@@ -946,7 +946,9 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Business Consulting
+        title: >-
+          "The support from GAP’s career team was outstanding. I secured a job
+          immediately after graduating!"
         tagline: Feature 2
         subtitle: Be in good company
         text: >-

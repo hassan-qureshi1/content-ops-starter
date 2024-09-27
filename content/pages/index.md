@@ -944,8 +944,8 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify.”
+          “GAP’s hands-on approach and diverse tracks transformed my career in
+          just few weeks.”
         tagline: ''
         subtitle: 'Jane Doe, Company'
         text: >-

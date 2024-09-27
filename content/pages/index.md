@@ -918,7 +918,7 @@ sections:
     subtitle: What GAPIANS Are Saying
     items:
       - type: FeaturedItem
-        title: Business Consulting
+        title: ''
         tagline: Feature 2
         subtitle: Be in good company
         text: >-

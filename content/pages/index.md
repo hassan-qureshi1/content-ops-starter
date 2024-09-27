@@ -1381,7 +1381,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/wellster-logo.svg
-        altText: Wellster logo
+        altText: NED
         elementId: ''
       - type: ImageBlock
         url: /images/vise-logo.svg

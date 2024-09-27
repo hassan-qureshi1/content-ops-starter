@@ -1377,7 +1377,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
-        altText: Empathy logo
+        altText: ''
         elementId: ''
       - type: ImageBlock
         url: /images/wellster-logo.svg

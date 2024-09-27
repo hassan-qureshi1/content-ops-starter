@@ -883,7 +883,7 @@ sections:
     title:
       type: TitleBlock
       text: Invite & Earn a Gift Card!
-      color: text-neutral
+      color: text-dark
     subtitle: >-
       Invite your friends to join GAP and earn a chance to win a gift card! The
       more friends you refer, the better your chances!

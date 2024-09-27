@@ -918,9 +918,7 @@ sections:
     subtitle: What GAPIANS Are Saying
     items:
       - type: FeaturedItem
-        title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+        title: “GAP gave me the skills and confidence to land my dream job in tech!”
         tagline: ''
         subtitle: 'Maria Walters, Company'
         text: ''

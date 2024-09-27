@@ -882,7 +882,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Invite & Earn a Gift Card!
       color: text-dark
     subtitle: Increase your reach
     text: >

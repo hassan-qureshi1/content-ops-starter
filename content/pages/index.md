@@ -884,7 +884,9 @@ sections:
       type: TitleBlock
       text: Invite & Earn a Gift Card!
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: >-
+      Invite your friends to join GAP and earn a chance to win a gift card! The
+      more friends you refer, the better your chances!
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.

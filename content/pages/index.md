@@ -977,7 +977,7 @@ sections:
         title: >-
           "Thanks to GAP, I’ve transitioned into digital marketing with a solid
           foundation and real-world skills."
-        tagline: Feature 2
+        tagline: ''
         subtitle: Be in good company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem

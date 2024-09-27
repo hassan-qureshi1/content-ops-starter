@@ -922,7 +922,7 @@ sections:
           "GAP’s hands-on approach and diverse tracks transformed my career in
           just few weeks."
         tagline: ''
-        subtitle: Be in good company
+        subtitle: '- Adrian K.'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.

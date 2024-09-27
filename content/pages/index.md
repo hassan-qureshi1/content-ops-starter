@@ -1403,6 +1403,13 @@ sections:
         url: /images/046c8a201eecd0c0c0c37c171facb9ef.webp
         altText: Rangle logo
         elementId: ''
+      - type: ImageBlock
+        url: /images/hero2.svg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
     elementId: ''
     motion: static
     colors: bg-light-fg-dark

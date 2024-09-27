@@ -974,7 +974,9 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Business Consulting
+        title: >-
+          "Thanks to GAP, I’ve transitioned into digital marketing with a solid
+          foundation and real-world skills."
         tagline: Feature 2
         subtitle: Be in good company
         text: >-

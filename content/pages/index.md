@@ -1040,9 +1040,18 @@ sections:
       text: Learn from the Best in the Field
       color: text-dark
     subtitle: ''
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      *   Receive mentorship from seasoned specialists dedicated to your success
+      and skill development.
+
+
+      *   Engage with instructors who are at the forefront of their industries
+      and understand current trends.
+
+
+      *   Develop skills through practical lessons taught by experts who have
+      navigated the challenges of the field.
+
     actions:
       - type: Button
         label: Get started

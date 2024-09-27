@@ -1380,12 +1380,12 @@ sections:
         altText: EVA
         elementId: ''
       - type: ImageBlock
-        url: /images/images (9).png
-        altText: NED
-        elementId: ''
-      - type: ImageBlock
         url: /images/vise-logo.svg
         altText: Vise logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/images (9).png
+        altText: NED
         elementId: ''
       - type: ImageBlock
         url: /images/telus-logo.svg

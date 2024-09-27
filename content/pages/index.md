@@ -459,6 +459,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
+          url: /images/abstract-feature2.svg
         actions: []
         colors: bg-light-fg-dark
         styles:

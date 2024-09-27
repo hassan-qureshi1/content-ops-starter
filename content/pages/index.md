@@ -1380,7 +1380,7 @@ sections:
         altText: EVA
         elementId: ''
       - type: ImageBlock
-        url: /images/vise-logo.svg
+        url: /images/9111b4007768f62441c1448a90e2de72.webp
         altText: Vise logo
         elementId: ''
       - type: ImageBlock

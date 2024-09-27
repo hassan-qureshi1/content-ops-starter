@@ -1304,10 +1304,9 @@ sections:
       - type: FeaturedItem
         title: Account Executive
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Yes, shortlisted candidates will be invited for an interview to assess
+          their skills, motivation, and suitability for the program.
         actions: []
         colors: bg-neutral-fg-dark
         styles:

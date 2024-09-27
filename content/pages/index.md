@@ -896,7 +896,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
+        label: Share on WhatsApp
         url: /
         icon: arrowRight
         iconPosition: right

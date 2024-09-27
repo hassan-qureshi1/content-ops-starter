@@ -920,7 +920,7 @@ sections:
       - type: FeaturedItem
         title: “GAP gave me the skills and confidence to land my dream job in tech!”
         tagline: ''
-        subtitle: 'Maria Walters, Company'
+        subtitle: '- Muhammad Muzammil '
         text: ''
         image:
           type: ImageBlock

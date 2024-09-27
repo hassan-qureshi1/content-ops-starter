@@ -1007,7 +1007,7 @@ sections:
       - type: FeaturedItem
         title: '"GAP gave me the skills and confidence to land my dream job in tech!"'
         tagline: ''
-        subtitle: Be in good company
+        subtitle: '- Muhammad Muzammil '
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.

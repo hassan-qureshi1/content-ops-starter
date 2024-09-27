@@ -1322,7 +1322,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Account Executive
-        subtitle: Sales
+        subtitle: ''
         text: >
           Yes, we offer fully funded scholarships and early bird discounts. Ask
           us! 

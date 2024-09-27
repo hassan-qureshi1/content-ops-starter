@@ -1341,7 +1341,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Account Executive
-        subtitle: Sales
+        subtitle: ''
         text: >
           By referring a friend to join GAP, you get a chance to win a gift card
           when they apply and mention your name and email in their application

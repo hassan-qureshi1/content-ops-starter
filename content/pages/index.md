@@ -1184,7 +1184,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Is this a physical or online program?
-        subtitle: Sales
+        subtitle: ''
         text: >
           GAP is a fully online program, allowing you to participate from
           anywhere with flexibility and convenience.

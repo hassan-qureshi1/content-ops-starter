@@ -448,7 +448,10 @@ sections:
       - type: FeaturedItem
         title: Career Exploration
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: >-
+          Gain practical experience and explore potential career paths to make
+          informed choices.Gain practical experience and explore potential
+          career paths to make informed choices.
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:

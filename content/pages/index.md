@@ -1401,7 +1401,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/046c8a201eecd0c0c0c37c171facb9ef.webp
-        altText: Rangle logo
+        altText: perfect Events
         elementId: ''
     elementId: ''
     motion: static

@@ -1037,7 +1037,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: Learn from the Best in the Field
       color: text-dark
     subtitle: Be in good company
     text: >

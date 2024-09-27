@@ -1244,10 +1244,12 @@ sections:
       - type: FeaturedItem
         title: Account Executive
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          The program runs five days a week, offering 25 to 35 hours of learning
+          and hands-on projects each week, depending on your task completion.
+          The flexible schedule allows you to adapt your workload based on
+          progress, ensuring a balance between learning and practical
+          applications.
         actions: []
         colors: bg-neutral-fg-dark
         styles:

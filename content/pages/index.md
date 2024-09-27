@@ -1397,7 +1397,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/7c7d01f9b9245eb3224f6cfeabaddb38.webp
-        altText: Sanity logo
+        altText: Burt's Bees
         elementId: ''
       - type: ImageBlock
         url: /images/046c8a201eecd0c0c0c37c171facb9ef.webp

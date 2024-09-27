@@ -1264,7 +1264,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Account Executive
+        title: How many students will be enrolled in one batch?
         subtitle: Sales
         text: >
           Each batch is limited to 6-12 students, ensuring personalised

@@ -1340,7 +1340,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Account Executive
+        title: What benefits do I get if I refer a friend to GAP?
         subtitle: ''
         text: >
           By referring a friend to join GAP, you get a chance to win a gift card

@@ -1222,7 +1222,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Account Executive
+        title: Who will teach us in GAP?
         subtitle: Sales
         text: >
           GAP is taught by seasoned industry professionals and expert

@@ -1384,7 +1384,7 @@ sections:
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
-        url: /images/images (9).png
+        url: /images/8c14893e8055bd9813c8baabcfbd377e.webp
         altText: NED
         elementId: ''
       - type: ImageBlock

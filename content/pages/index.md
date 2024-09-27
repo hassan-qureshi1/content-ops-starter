@@ -1303,7 +1303,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Is there an interview process for admission?
-        subtitle: Sales
+        subtitle: ''
         text: >
           Yes, shortlisted candidates will be invited for an interview to assess
           their skills, motivation, and suitability for the program.

@@ -1381,7 +1381,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/9111b4007768f62441c1448a90e2de72.webp
-        altText: Vise logo
+        altText: John Frieda
         elementId: ''
       - type: ImageBlock
         url: /images/8c14893e8055bd9813c8baabcfbd377e.webp

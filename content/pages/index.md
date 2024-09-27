@@ -1076,7 +1076,9 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: "\U0001F680 Are you ready to kickstart your career?"
+      text: >-
+        Ready to learn from industry leaders and advance your career? Take the
+        next step with GAP.
       color: text-dark
       styles:
         self:

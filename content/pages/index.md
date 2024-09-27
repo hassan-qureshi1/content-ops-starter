@@ -1376,7 +1376,7 @@ sections:
     subtitle: Brands That Trust Devkind
     images:
       - type: ImageBlock
-        url: /images/Screenshot from 2024-09-26 18-14-15.png
+        url: /images/a99369a399ee512d0d29543ec778c857 (1).webp
         altText: EVA
         elementId: ''
       - type: ImageBlock

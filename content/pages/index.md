@@ -1283,7 +1283,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Account Executive
+        title: What qualifications are required to join GAP?
         subtitle: Sales
         text: >
           You need to have completed a minimum of 16 years of education, with a

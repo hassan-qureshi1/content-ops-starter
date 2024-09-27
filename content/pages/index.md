@@ -1389,7 +1389,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/ab42b303d25c208e54ebb354ba35aed3.webp
-        altText: Telus logo
+        altText: fairway
         elementId: ''
       - type: ImageBlock
         url: /images/9d72c6c6743dc0577c3d60c8e9e277b7.webp

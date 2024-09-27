@@ -1146,7 +1146,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Open Source Engineer
+        title: Who is the GAP for?
         subtitle: Marketing
         text: >
           GAP is tailored for final-year students, recent graduates, and

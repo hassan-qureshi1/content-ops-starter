@@ -887,9 +887,19 @@ sections:
     subtitle: >-
       Invite your friends to join GAP and earn a chance to win a gift card! The
       more friends you refer, the better your chances!
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |+
+      ### **How it works:**
+
+      *   Share GAP with your friends.
+
+      <!---->
+
+      *   Have them enter your name and email on the application form.
+
+      <!---->
+
+      *   Get a chance to win with every referral!
+
     actions:
       - type: Button
         label: Get started

@@ -1147,7 +1147,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Who is the GAP for?
-        subtitle: Marketing
+        subtitle: ''
         text: >
           GAP is tailored for final-year students, recent graduates, and
           professionals seeking to pivot into tech. It’s perfect for anyone

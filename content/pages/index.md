@@ -1223,7 +1223,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Who will teach us in GAP?
-        subtitle: Sales
+        subtitle: ''
         text: >
           GAP is taught by seasoned industry professionals and expert
           instructors, bringing years of real-world experience to help you

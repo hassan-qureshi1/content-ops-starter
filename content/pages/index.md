@@ -921,7 +921,7 @@ sections:
         title: >-
           "GAP’s hands-on approach and diverse tracks transformed my career in
           just few weeks."
-        tagline: Feature 2
+        tagline: ''
         subtitle: Be in good company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem

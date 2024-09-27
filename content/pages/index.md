@@ -949,7 +949,7 @@ sections:
         title: >-
           "The support from GAP’s career team was outstanding. I secured a job
           immediately after graduating!"
-        tagline: Feature 2
+        tagline: ''
         subtitle: Be in good company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem

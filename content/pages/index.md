@@ -1321,7 +1321,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Account Executive
+        title: Are scholarships available for GAP?
         subtitle: ''
         text: >
           Yes, we offer fully funded scholarships and early bird discounts. Ask

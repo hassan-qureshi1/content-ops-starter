@@ -1202,7 +1202,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Account Executive
+        title: What will I study in GAP?
         subtitle: Sales
         text: >
           You’ll gain in-depth knowledge and hands-on experience in your chosen

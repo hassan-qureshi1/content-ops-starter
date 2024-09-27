@@ -1089,7 +1089,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
+        label: Join GAP Today
         altText: ''
         url: /
         showIcon: false

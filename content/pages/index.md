@@ -1302,7 +1302,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Account Executive
+        title: Is there an interview process for admission?
         subtitle: Sales
         text: >
           Yes, shortlisted candidates will be invited for an interview to assess

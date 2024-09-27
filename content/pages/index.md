@@ -1204,10 +1204,10 @@ sections:
       - type: FeaturedItem
         title: Account Executive
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          You’ll gain in-depth knowledge and hands-on experience in your chosen
+          track, whether it’s Full-stack Development, UX/UI Design, AI/ML, or
+          more, preparing you for real-world tech challenges.
         actions: []
         colors: bg-neutral-fg-dark
         styles:

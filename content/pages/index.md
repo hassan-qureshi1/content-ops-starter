@@ -1425,16 +1425,6 @@ sections:
       type: Badge
       label: Our clients hire the best—and we prepare you to be just that.
       color: text-primary
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - title:
       text: How is life in GradAccelerate?
       color: text-primary

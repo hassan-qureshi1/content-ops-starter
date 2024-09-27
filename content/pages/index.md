@@ -1005,7 +1005,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Business Consulting
+        title: '"GAP gave me the skills and confidence to land my dream job in tech!"'
         tagline: ''
         subtitle: Be in good company
         text: >-

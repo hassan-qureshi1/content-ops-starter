@@ -915,7 +915,7 @@ sections:
       self:
         alignItems: center
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: What GAPIANS Are Saying
     items:
       - type: FeaturedItem
         title: >-

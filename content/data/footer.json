@@ -108,12 +108,6 @@
     },
     "socialLinks": [
         {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
-            "type": "Social"
-        },
-        {
             "altText": "Email link",
             "url": "apply@gradaccelerate.com",
             "icon": "mail",

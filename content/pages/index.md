@@ -1128,10 +1128,10 @@ sections:
       - type: FeaturedItem
         title: What is the GradAccelerate Program?
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          GradAccelerate Program aka GAP is a intensive program designed to
+          equip participants with tech skills, hands-on experience, and industry
+          connections for a successful career.
         actions: []
         colors: bg-neutral-fg-dark
         styles:

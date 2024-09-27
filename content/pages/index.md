@@ -1396,7 +1396,7 @@ sections:
         altText: Contentful logo
         elementId: ''
       - type: ImageBlock
-        url: /images/sanity-logo.svg
+        url: /images/7c7d01f9b9245eb3224f6cfeabaddb38.webp
         altText: Sanity logo
         elementId: ''
       - type: ImageBlock

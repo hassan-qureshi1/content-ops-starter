@@ -1265,7 +1265,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: How many students will be enrolled in one batch?
-        subtitle: Sales
+        subtitle: ''
         text: >
           Each batch is limited to 6-12 students, ensuring personalised
           attention and support.

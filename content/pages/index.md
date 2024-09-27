@@ -445,32 +445,6 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-      - type: FeaturedItem
-        title: Career Exploration
-        tagline: ''
-        subtitle: >-
-          Gain practical experience and explore potential career paths to make
-          informed choices.Gain practical experience and explore potential
-          career paths to make informed choices.
-        text: ''
-        image:
-          type: ImageBlock
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-          url: /images/abstract-feature2.svg
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
     actions: []
     variant: small-list
     colors: bg-neutral-fg-dark

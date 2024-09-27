@@ -1393,7 +1393,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/9d72c6c6743dc0577c3d60c8e9e277b7.webp
-        altText: Contentful logo
+        altText: Table Top Games
         elementId: ''
       - type: ImageBlock
         url: /images/7c7d01f9b9245eb3224f6cfeabaddb38.webp

@@ -1242,7 +1242,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Account Executive
+        title: What are the program timings?
         subtitle: ''
         text: >
           The program runs five days a week, offering 25 to 35 hours of learning

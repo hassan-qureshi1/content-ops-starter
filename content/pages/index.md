@@ -1421,6 +1421,10 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    badge:
+      type: Badge
+      label: Our clients hire the best—and we prepare you to be just that.
+      color: text-primary
   - title:
       text: Grow your business 10x faster
       color: text-dark

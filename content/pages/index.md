@@ -1042,14 +1042,7 @@ sections:
       *   Develop skills through practical lessons taught by experts who have
       navigated the challenges of the field.
 
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero3.svg

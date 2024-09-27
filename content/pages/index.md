@@ -1284,7 +1284,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: What qualifications are required to join GAP?
-        subtitle: Sales
+        subtitle: ''
         text: >
           You need to have completed a minimum of 16 years of education, with a
           keen interest in technology and innovation.

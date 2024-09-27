@@ -1183,7 +1183,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Account Executive
+        title: Is this a physical or online program?
         subtitle: Sales
         text: >
           GAP is a fully online program, allowing you to participate from

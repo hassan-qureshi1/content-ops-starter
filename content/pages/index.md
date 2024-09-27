@@ -452,8 +452,7 @@ sections:
           Gain practical experience and explore potential career paths to make
           informed choices.Gain practical experience and explore potential
           career paths to make informed choices.
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg

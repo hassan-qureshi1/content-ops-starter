@@ -918,7 +918,9 @@ sections:
     subtitle: What GAPIANS Are Saying
     items:
       - type: FeaturedItem
-        title: ''
+        title: >-
+          "GAP’s hands-on approach and diverse tracks transformed my career in
+          just few weeks."
         tagline: Feature 2
         subtitle: Be in good company
         text: >-

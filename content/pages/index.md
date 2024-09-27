@@ -1224,10 +1224,10 @@ sections:
       - type: FeaturedItem
         title: Account Executive
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          GAP is taught by seasoned industry professionals and expert
+          instructors, bringing years of real-world experience to help you
+          master the skills needed for a successful tech career.
         actions: []
         colors: bg-neutral-fg-dark
         styles:

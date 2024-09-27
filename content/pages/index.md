@@ -1377,7 +1377,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
-        altText: ''
+        altText: EVA
         elementId: ''
       - type: ImageBlock
         url: /images/wellster-logo.svg

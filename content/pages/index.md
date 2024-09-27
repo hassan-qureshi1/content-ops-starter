@@ -1148,10 +1148,10 @@ sections:
       - type: FeaturedItem
         title: Open Source Engineer
         subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          GAP is tailored for final-year students, recent graduates, and
+          professionals seeking to pivot into tech. It’s perfect for anyone
+          eager to launch or advance their career in the technology sector.
         actions: []
         colors: bg-neutral-fg-dark
         styles:

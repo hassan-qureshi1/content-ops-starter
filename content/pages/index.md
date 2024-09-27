@@ -406,7 +406,6 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
           altText: Background alt text
           styles:
             self:

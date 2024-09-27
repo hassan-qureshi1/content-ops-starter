@@ -1243,7 +1243,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Account Executive
-        subtitle: Sales
+        subtitle: ''
         text: >
           The program runs five days a week, offering 25 to 35 hours of learning
           and hands-on projects each week, depending on your task completion.

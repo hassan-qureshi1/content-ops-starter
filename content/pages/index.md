@@ -1167,7 +1167,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Senior Software Engineer
-        subtitle: Engineering
+        subtitle: ''
         text: >
           The GAP program spans 16 weeks, providing intensive training and
           hands-on learning in your chosen track.

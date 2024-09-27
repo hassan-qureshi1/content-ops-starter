@@ -109,7 +109,8 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "Support"
             }
         ],
         "type": "FooterLinksGroup"

@@ -901,6 +901,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: Share on WhatsApp
     media:
       type: ImageBlock
       url: /images/hero2.svg

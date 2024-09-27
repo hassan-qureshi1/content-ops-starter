@@ -891,13 +891,7 @@ sections:
       #### **How it works:**
 
       *   Share GAP with your friends.
-
-      <!---->
-
       *   Have them enter your name and email on the application form.
-
-      <!---->
-
       *   Get a chance to win with every referral!
 
     actions:

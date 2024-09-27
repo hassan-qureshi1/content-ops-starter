@@ -388,13 +388,6 @@ sections:
           Challenge yourself to step outside your comfort zone and develop
           valuable life skills.
         text: ''
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Background alt text
-          styles:
-            self:
-              borderRadius: x-large
         actions: []
         colors: bg-light-fg-dark
         styles:

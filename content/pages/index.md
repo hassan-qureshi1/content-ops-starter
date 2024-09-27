@@ -1380,7 +1380,7 @@ sections:
         altText: EVA
         elementId: ''
       - type: ImageBlock
-        url: /images/wellster-logo.svg
+        url: /images/images (9).png
         altText: NED
         elementId: ''
       - type: ImageBlock

@@ -1388,7 +1388,7 @@ sections:
         altText: NED
         elementId: ''
       - type: ImageBlock
-        url: /images/telus-logo.svg
+        url: /images/ab42b303d25c208e54ebb354ba35aed3.webp
         altText: Telus logo
         elementId: ''
       - type: ImageBlock

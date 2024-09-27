@@ -260,7 +260,7 @@ sections:
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/Screenshot from 2024-09-26 18-14-15.png
-        altText: Empathy logo
+        altText: eva
         type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo

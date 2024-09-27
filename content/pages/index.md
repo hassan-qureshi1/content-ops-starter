@@ -950,7 +950,7 @@ sections:
           "The support from GAP’s career team was outstanding. I secured a job
           immediately after graduating!"
         tagline: ''
-        subtitle: Be in good company
+        subtitle: '- Anique'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.

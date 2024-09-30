@@ -19,6 +19,7 @@ seo:
   type: Seo
   metaTags:
     - type: MetaTag
+    - type: MetaTag
 colors: bg-light-fg-dark
 type: PostLayout
 author: content/data/person1.json

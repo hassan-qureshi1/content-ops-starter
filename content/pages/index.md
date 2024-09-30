@@ -1416,5 +1416,6 @@ seo:
   metaTags:
     - type: MetaTag
       property: 'og:title'
+    - type: MetaTag
 type: PageLayout
 ---
